@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5 - High level specification of business process (black-box)"
-    id="id-b72da59bfbd3411b93aa34a251da2f36"/>
+    id="id-b72da59bfbd3411b93aa34a251da2f36">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c0fdf184a2ad4a0498c9005074375871">
+    <bounds
+        x="605"
+        y="179"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-d3b4ac316fb64645aec364d8b6820503.xml#id-d3b4ac316fb64645aec364d8b6820503"/>
+  </children>
+</archimate:ArchimateDiagramModel>
