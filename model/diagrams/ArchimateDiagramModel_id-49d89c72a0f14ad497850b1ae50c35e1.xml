@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2 - Product"
-    id="id-49d89c72a0f14ad497850b1ae50c35e1">
+    id="id-49d89c72a0f14ad497850b1ae50c35e1"
+    viewpoint="product">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7076796961f04ff4aace4ead14fbcbd0">
