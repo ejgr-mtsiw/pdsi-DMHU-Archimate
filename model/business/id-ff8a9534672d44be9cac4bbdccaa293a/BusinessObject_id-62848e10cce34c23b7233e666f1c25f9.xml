@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bem imóvel"
-    id="id-62848e10cce34c23b7233e666f1c25f9"/>
+    id="id-62848e10cce34c23b7233e666f1c25f9">
+  <properties
+      key="key"
+      value="zzz_bem_imovel"/>
+</archimate:BusinessObject>

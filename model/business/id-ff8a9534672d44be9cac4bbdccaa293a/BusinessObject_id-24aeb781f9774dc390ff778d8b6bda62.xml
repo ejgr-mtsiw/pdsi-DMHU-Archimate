@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inspecção periódica"
-    id="id-24aeb781f9774dc390ff778d8b6bda62"/>
+    id="id-24aeb781f9774dc390ff778d8b6bda62">
+  <properties
+      key="key"
+      value="ffe_inspecao_periodica"/>
+</archimate:BusinessObject>

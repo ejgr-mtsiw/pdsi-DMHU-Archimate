@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Condicionamentos à operação na via"
-    id="id-7b58372603ad46a985b741a7ae2b390e"/>
+    id="id-7b58372603ad46a985b741a7ae2b390e">
+  <properties
+      key="key"
+      value="zzz_condicionamento_operacao_via_publica"/>
+</archimate:BusinessObject>

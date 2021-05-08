@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="bem inventário"
-    id="id-d74dd8938a244dbcb415f19b839b29d7"/>
+    name="Bem inventário"
+    id="id-d74dd8938a244dbcb415f19b839b29d7">
+  <properties
+      key="key"
+      value="ffe_bem_inventario"/>
+</archimate:BusinessObject>

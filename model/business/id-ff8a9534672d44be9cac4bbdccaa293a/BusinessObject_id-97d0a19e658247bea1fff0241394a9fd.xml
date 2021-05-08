@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Parecer Jurídico"
-    id="id-97d0a19e658247bea1fff0241394a9fd"/>
+    id="id-97d0a19e658247bea1fff0241394a9fd">
+  <properties
+      key="key"
+      value="zzz_parecer_juridico"/>
+</archimate:BusinessObject>

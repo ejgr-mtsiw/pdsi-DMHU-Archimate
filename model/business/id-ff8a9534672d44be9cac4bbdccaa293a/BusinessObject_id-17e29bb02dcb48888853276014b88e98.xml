@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Local de acção de sensibilização"
-    id="id-17e29bb02dcb48888853276014b88e98"/>
+    name="Local de ação de sensibilização"
+    id="id-17e29bb02dcb48888853276014b88e98">
+  <properties
+      key="key"
+      value="lx_local_acao_sensibilizacao"/>
+</archimate:BusinessObject>

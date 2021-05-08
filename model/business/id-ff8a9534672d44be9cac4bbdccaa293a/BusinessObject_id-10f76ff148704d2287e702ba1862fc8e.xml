@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aterro Sanitário"
-    id="id-10f76ff148704d2287e702ba1862fc8e"/>
+    id="id-10f76ff148704d2287e702ba1862fc8e">
+  <properties
+      key="key"
+      value="ru_aterro_sanitario"/>
+</archimate:BusinessObject>

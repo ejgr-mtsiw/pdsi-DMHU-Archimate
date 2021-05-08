@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="fornecedor"
-    id="id-630be58025b645d480553e3176f33636"/>
+    name="Fornecedor"
+    id="id-630be58025b645d480553e3176f33636">
+  <properties
+      key="key"
+      value="ffe_fornecedor"/>
+</archimate:BusinessObject>

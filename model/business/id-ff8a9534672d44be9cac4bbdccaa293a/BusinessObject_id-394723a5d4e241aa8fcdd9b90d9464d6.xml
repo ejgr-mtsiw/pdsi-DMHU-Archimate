@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Equipamento de deposição"
-    id="id-394723a5d4e241aa8fcdd9b90d9464d6"/>
+    id="id-394723a5d4e241aa8fcdd9b90d9464d6">
+  <properties
+      key="key"
+      value="ru_equipamento_deposicao"/>
+</archimate:BusinessObject>

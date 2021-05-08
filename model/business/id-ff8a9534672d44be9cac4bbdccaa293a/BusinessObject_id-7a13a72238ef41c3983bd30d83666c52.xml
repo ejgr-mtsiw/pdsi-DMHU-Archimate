@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Graffitis cartazes e publicidade"
-    id="id-7a13a72238ef41c3983bd30d83666c52"/>
+    id="id-7a13a72238ef41c3983bd30d83666c52">
+  <properties
+      key="key"
+      value="ru_graffiti"/>
+</archimate:BusinessObject>

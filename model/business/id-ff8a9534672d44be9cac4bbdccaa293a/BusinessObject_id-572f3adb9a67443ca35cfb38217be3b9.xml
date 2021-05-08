@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Guia de Receita"
-    id="id-572f3adb9a67443ca35cfb38217be3b9"/>
+    id="id-572f3adb9a67443ca35cfb38217be3b9">
+  <properties
+      key="key"
+      value="zzz_guia_de_receita"/>
+</archimate:BusinessObject>

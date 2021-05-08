@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Existência"
-    id="id-fb1be1c9c21f44db8b037c823dbf90d0"/>
+    id="id-fb1be1c9c21f44db8b037c823dbf90d0">
+  <properties
+      key="key"
+      value="zzz_existencia"/>
+</archimate:BusinessObject>

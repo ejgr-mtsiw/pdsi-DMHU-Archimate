@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Áreas de Apoio"
-    id="id-d725bd8240f740e9ba73c97774fed372"/>
+    id="id-d725bd8240f740e9ba73c97774fed372">
+  <properties
+      key="key"
+      value="ru_area_de_apoio"/>
+</archimate:BusinessObject>

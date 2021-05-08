@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Empreitadas de obra"
-    id="id-73f4a46c052241bba1295a9c29336137"/>
+    id="id-73f4a46c052241bba1295a9c29336137">
+  <properties
+      key="key"
+      value="zzz_empreitadas"/>
+</archimate:BusinessObject>

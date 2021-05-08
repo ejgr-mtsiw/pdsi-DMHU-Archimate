@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hasta pública"
-    id="id-85df4e46c26f4188a9468b2c4de4c5ef"/>
+    id="id-85df4e46c26f4188a9468b2c4de4c5ef">
+  <properties
+      key="key"
+      value="zzz_hasta_publica"/>
+</archimate:BusinessObject>
