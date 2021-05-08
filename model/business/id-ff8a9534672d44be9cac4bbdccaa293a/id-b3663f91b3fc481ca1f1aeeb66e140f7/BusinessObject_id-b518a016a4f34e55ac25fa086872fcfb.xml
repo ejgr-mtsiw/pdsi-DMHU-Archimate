@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contentor"
-    id="id-b518a016a4f34e55ac25fa086872fcfb"/>
+    id="id-b518a016a4f34e55ac25fa086872fcfb">
+  <properties
+      key="key"
+      value="ru_contentor"/>
+</archimate:BusinessObject>

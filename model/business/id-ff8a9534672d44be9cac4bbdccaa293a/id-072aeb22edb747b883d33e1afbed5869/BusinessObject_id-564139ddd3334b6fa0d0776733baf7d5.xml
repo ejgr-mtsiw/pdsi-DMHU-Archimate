@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resposta Serviços"
-    id="id-564139ddd3334b6fa0d0776733baf7d5"/>
+    id="id-564139ddd3334b6fa0d0776733baf7d5">
+  <properties
+      key="key"
+      value="lxRespostaGopi"/>
+</archimate:BusinessObject>

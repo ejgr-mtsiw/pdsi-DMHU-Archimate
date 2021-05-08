@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fardamento"
+    id="id-f02b60afae1c4903a0949433a232f38a">
+  <properties
+      key="key"
+      value="ffe_fardamento"/>
+</archimate:BusinessObject>

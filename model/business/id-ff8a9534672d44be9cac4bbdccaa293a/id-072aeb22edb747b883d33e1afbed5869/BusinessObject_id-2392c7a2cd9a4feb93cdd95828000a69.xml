@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Processo de Contra Ordenação"
-    id="id-2392c7a2cd9a4feb93cdd95828000a69"/>
+    id="id-2392c7a2cd9a4feb93cdd95828000a69">
+  <properties
+      key="key"
+      value="lxParticipacao"/>
+</archimate:BusinessObject>

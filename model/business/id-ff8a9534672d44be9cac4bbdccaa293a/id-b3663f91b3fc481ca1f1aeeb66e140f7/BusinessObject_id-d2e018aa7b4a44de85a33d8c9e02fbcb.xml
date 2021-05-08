@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Circuitos de outro tipo"
-    id="id-d2e018aa7b4a44de85a33d8c9e02fbcb"/>
+    id="id-d2e018aa7b4a44de85a33d8c9e02fbcb">
+  <properties
+      key="key"
+      value="ru_circuito_outros"/>
+</archimate:BusinessObject>

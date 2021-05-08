@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Reporte à ERSAR"
-    id="id-9141921e8cf94c3da6b779b758aa5d77"/>
+    id="id-9141921e8cf94c3da6b779b758aa5d77">
+  <properties
+      key="key"
+      value="lxReporteErsar"/>
+</archimate:BusinessObject>

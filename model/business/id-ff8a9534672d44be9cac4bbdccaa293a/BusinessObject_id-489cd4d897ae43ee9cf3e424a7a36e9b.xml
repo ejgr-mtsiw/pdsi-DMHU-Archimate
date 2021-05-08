@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plano de Formação"
-    id="id-489cd4d897ae43ee9cf3e424a7a36e9b"/>
+    id="id-489cd4d897ae43ee9cf3e424a7a36e9b">
+  <properties
+      key="key"
+      value="rh_plane_formacao"/>
+</archimate:BusinessObject>

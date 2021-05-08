@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requisições ao armazém"
-    id="id-e7ae343c4c2a4376a49b21a4b87a4393"/>
+    id="id-e7ae343c4c2a4376a49b21a4b87a4393">
+  <properties
+      key="key"
+      value="ffe_armazem_requisicoes"/>
+</archimate:BusinessObject>

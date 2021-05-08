@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Manutenção de Papeleira"
-    id="id-cc7a07e50d7c4d73b9c66969c268696c"/>
+    id="id-cc7a07e50d7c4d73b9c66969c268696c">
+  <properties
+      key="key"
+      value="ru_manutencao_papeleira"/>
+</archimate:BusinessObject>

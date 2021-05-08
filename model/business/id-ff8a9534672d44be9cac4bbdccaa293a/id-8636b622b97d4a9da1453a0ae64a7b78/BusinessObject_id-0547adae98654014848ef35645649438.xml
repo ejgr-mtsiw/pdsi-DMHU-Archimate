@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Equipamento Proteção Individual"
-    id="id-0547adae98654014848ef35645649438"/>
+    id="id-0547adae98654014848ef35645649438">
+  <properties
+      key="key"
+      value="ffe_equipamento_protecao"/>
+</archimate:BusinessObject>

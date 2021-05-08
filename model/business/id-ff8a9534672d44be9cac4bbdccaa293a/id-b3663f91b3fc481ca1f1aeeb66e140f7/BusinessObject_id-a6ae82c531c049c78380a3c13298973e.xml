@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Local de Contentor Solicitação"
-    id="id-a6ae82c531c049c78380a3c13298973e"/>
+    name="Local de Contentor"
+    id="id-a6ae82c531c049c78380a3c13298973e">
+  <properties
+      key="key"
+      value="ru_local_contentor"/>
+</archimate:BusinessObject>

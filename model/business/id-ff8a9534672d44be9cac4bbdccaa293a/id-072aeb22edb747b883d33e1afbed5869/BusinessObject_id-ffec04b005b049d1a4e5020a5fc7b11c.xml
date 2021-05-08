@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Evento"
-    id="id-ffec04b005b049d1a4e5020a5fc7b11c"/>
+    id="id-ffec04b005b049d1a4e5020a5fc7b11c">
+  <properties
+      key="key"
+      value="lxEvento"/>
+</archimate:BusinessObject>

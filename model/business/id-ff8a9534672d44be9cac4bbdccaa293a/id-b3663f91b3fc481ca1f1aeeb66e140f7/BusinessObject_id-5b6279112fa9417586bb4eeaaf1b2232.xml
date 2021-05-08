@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ponto de recolha selectivo (PRS)"
-    id="id-5b6279112fa9417586bb4eeaaf1b2232"/>
+    id="id-5b6279112fa9417586bb4eeaaf1b2232">
+  <properties
+      key="key"
+      value="ru_PRS"/>
+</archimate:BusinessObject>

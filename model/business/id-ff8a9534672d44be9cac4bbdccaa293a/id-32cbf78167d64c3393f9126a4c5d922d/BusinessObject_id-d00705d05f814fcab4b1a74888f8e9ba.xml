@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Colaborador da DMHU"
-    id="id-d00705d05f814fcab4b1a74888f8e9ba"/>
+    id="id-d00705d05f814fcab4b1a74888f8e9ba">
+  <properties
+      key="key"
+      value="rh_colaborador"/>
+</archimate:BusinessObject>

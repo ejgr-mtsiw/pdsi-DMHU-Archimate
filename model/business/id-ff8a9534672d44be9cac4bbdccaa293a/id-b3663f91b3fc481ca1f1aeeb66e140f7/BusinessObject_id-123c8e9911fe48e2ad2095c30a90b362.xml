@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Frete"
-    id="id-123c8e9911fe48e2ad2095c30a90b362"/>
+    id="id-123c8e9911fe48e2ad2095c30a90b362">
+  <properties
+      key="key"
+      value="ru_frete"/>
+</archimate:BusinessObject>

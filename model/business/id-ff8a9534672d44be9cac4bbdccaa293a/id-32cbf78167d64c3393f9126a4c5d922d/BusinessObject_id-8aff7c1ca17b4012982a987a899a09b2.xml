@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Avaliação de desempenho"
-    id="id-8aff7c1ca17b4012982a987a899a09b2"/>
+    id="id-8aff7c1ca17b4012982a987a899a09b2">
+  <properties
+      key="key"
+      value="rh_siadap"/>
+</archimate:BusinessObject>

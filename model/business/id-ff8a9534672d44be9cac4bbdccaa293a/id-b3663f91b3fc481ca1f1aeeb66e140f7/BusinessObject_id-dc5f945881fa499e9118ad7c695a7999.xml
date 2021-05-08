@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Porta-a-Porta  não selectiva"
-    id="id-dc5f945881fa499e9118ad7c695a7999"/>
+    id="id-dc5f945881fa499e9118ad7c695a7999">
+  <properties
+      key="key"
+      value="ru_PRS_Porta_porta"/>
+</archimate:BusinessObject>

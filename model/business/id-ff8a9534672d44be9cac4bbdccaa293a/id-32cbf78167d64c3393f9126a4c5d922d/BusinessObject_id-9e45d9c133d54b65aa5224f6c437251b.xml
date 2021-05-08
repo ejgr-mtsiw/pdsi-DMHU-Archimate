@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ação  de formação"
-    id="id-9e45d9c133d54b65aa5224f6c437251b"/>
+    id="id-9e45d9c133d54b65aa5224f6c437251b">
+  <properties
+      key="key"
+      value="rh_formacao"/>
+</archimate:BusinessObject>

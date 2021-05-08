@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Presença/Ausência"
-    id="id-d0beb2e7ad8e4ea9891f89b90561cb1e"/>
+    id="id-d0beb2e7ad8e4ea9891f89b90561cb1e">
+  <properties
+      key="key"
+      value="rh_ocorrencia"/>
+</archimate:BusinessObject>

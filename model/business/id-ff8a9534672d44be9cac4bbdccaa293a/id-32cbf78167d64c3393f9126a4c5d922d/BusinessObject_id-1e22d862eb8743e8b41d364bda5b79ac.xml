@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Curso de Formação"
-    id="id-1e22d862eb8743e8b41d364bda5b79ac"/>
+    id="id-1e22d862eb8743e8b41d364bda5b79ac">
+  <properties
+      key="key"
+      value="rh_curso_formacao"/>
+</archimate:BusinessObject>

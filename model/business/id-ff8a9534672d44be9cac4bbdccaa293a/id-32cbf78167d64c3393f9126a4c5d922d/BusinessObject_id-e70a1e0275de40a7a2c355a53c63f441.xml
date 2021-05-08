@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Férias"
-    id="id-e70a1e0275de40a7a2c355a53c63f441"/>
+    id="id-e70a1e0275de40a7a2c355a53c63f441">
+  <properties
+      key="key"
+      value="rh_ferias"/>
+</archimate:BusinessObject>

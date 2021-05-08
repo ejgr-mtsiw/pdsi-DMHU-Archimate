@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ecoponto de superfície"
-    id="id-1e3a27e418da4e7eaa0b248c7972378e"/>
+    id="id-1e3a27e418da4e7eaa0b248c7972378e">
+  <properties
+      key="key"
+      value="ru_PRS_Ecoponto_superficie"/>
+</archimate:BusinessObject>

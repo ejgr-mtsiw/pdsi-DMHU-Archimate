@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Viatura"
+    id="id-490d4f3a202f499fac03f4c78aad21c1">
+  <properties
+      key="key"
+      value="ffe_viatura"/>
+</archimate:BusinessObject>

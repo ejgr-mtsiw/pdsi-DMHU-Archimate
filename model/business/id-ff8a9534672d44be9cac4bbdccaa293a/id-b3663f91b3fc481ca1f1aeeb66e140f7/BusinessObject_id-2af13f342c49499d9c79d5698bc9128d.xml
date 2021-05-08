@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Eco-ilha subterrânea"
-    id="id-2af13f342c49499d9c79d5698bc9128d"/>
+    id="id-2af13f342c49499d9c79d5698bc9128d">
+  <properties
+      key="key"
+      value="ru_PRS_ecoilha_subterranea"/>
+</archimate:BusinessObject>

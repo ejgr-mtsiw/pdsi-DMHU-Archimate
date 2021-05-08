@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PRS_Entidade_PAP"
-    id="id-d84aa51f679d4717a17a3a0b29b44cec"/>
+    id="id-d84aa51f679d4717a17a3a0b29b44cec">
+  <properties
+      key="key"
+      value="ru_PRS_entidade"/>
+</archimate:BusinessObject>

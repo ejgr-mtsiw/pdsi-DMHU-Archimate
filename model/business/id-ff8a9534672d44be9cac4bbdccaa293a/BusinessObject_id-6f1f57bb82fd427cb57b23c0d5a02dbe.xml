@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Garagem"
-    id="id-6f1f57bb82fd427cb57b23c0d5a02dbe"/>
+    id="id-6f1f57bb82fd427cb57b23c0d5a02dbe">
+  <properties
+      key="key"
+      value="ffe_garagem"/>
+</archimate:BusinessObject>

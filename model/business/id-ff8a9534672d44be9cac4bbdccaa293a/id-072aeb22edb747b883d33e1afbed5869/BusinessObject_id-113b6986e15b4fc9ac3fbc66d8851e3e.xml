@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pombos e Pragas"
-    id="id-113b6986e15b4fc9ac3fbc66d8851e3e"/>
+    id="id-113b6986e15b4fc9ac3fbc66d8851e3e">
+  <properties
+      key="key"
+      value="lxPombosePragas"/>
+</archimate:BusinessObject>

@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Equipamento"
+    id="id-06b257cf1225433cb3f0022d638e0b94">
+  <properties
+      key="key"
+      value="ffe_equipamento"/>
+</archimate:BusinessObject>

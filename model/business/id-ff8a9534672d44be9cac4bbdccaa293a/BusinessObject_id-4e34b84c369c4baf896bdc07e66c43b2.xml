@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resíduos especiais"
-    id="id-4e34b84c369c4baf896bdc07e66c43b2"/>
+    id="id-4e34b84c369c4baf896bdc07e66c43b2">
+  <properties
+      key="key"
+      value="ru_residuos_especiais"/>
+</archimate:BusinessObject>

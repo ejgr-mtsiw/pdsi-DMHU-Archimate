@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Circuito de recolha em escala"
-    id="id-5fc0f7dae27340c89489866e67ecd95a"/>
+    id="id-5fc0f7dae27340c89489866e67ecd95a">
+  <properties
+      key="key"
+      value="ru_circuito_recolha_escala"/>
+</archimate:BusinessObject>

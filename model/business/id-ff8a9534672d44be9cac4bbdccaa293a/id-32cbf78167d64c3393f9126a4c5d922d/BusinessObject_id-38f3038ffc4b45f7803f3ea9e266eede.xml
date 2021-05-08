@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ficha de aptidão médica"
-    id="id-38f3038ffc4b45f7803f3ea9e266eede"/>
+    id="id-38f3038ffc4b45f7803f3ea9e266eede">
+  <properties
+      key="key"
+      value="rh_ficha_aptidao"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Trabalho extraordinário"
-    id="id-9fb1000dab154925a705d8b515ff3e39"/>
+    id="id-9fb1000dab154925a705d8b515ff3e39">
+  <properties
+      key="key"
+      value="rh_previsao_ts"/>
+</archimate:BusinessObject>

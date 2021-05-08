@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Armazém geral"
-    id="id-075be717e3f54049ad2f580372607f5b"/>
+    id="id-075be717e3f54049ad2f580372607f5b">
+  <properties
+      key="key"
+      value="ffe_armazem_geral"/>
+</archimate:BusinessObject>
