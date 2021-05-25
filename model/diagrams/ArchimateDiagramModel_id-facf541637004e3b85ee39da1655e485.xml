@@ -1,4 +1,5 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="10 - Application architecture AS-IS (Application Usage)"
-    id="id-facf541637004e3b85ee39da1655e485"/>
+    id="id-facf541637004e3b85ee39da1655e485"
+    viewpoint="application_usage"/>
