@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="5 - High level specification of business process (black-box)"
+    name="05 - High level specification of business process (black-box)"
     id="id-b72da59bfbd3411b93aa34a251da2f36"
     viewpoint="business_process_cooperation">
   <children
