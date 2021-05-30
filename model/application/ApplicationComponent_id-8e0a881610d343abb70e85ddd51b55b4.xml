@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GIC"
-    id="id-8e0a881610d343abb70e85ddd51b55b4"/>
+    id="id-8e0a881610d343abb70e85ddd51b55b4"
+    documentation="Gestão Integrada de ContraOrdenações"/>
