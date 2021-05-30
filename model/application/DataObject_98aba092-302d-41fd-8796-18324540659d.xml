@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Equipamento"
+    id="98aba092-302d-41fd-8796-18324540659d"
+    documentation="Entidade abstrata que permite caracterizar equipamentos (ex. roçadoras, sopradores, compactadores) e viaturas"/>

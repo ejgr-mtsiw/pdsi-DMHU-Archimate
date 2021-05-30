@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tipo de Solicitação"
+    id="5b7fd56c-663f-4152-8bf4-1132bee46eb6"
+    documentation="Tipificação dos tipos de Solicitação (i.e. Monos abandonados, Pedido de Contentor, Insalubridade, …)"/>

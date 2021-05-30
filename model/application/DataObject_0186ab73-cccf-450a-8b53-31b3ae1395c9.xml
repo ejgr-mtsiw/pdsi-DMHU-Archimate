@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Turno"
+    id="0186ab73-cccf-450a-8b53-31b3ae1395c9"
+    documentation="Período de trabalho (quatro turnos: manhã, tarde, noite, dia)"/>

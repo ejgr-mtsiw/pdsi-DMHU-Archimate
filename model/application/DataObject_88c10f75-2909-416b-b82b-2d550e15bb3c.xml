@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Circuito de Recolha"
+    id="88c10f75-2909-416b-b82b-2d550e15bb3c"
+    documentation="Circuito de recolha de resíduos são  caracterizados por: horários, resíduos a recolher, recursos  humanos e mecânicos envolvidos. Os circuitos de recolha agregam um conjunto de pontos de recolha de resíduos."/>

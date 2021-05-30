@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ordem de Trabalho"
+    id="7a65c162-ed3e-44ec-9b25-036e64abcf5a"
+    documentation="Ordem gerada pelo pedido de assistência, tem operações que podem ser externas e internas"/>

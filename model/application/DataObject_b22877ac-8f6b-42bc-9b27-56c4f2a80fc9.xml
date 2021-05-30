@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ponto de recolha selectivo (PRS)"
+    id="b22877ac-8f6b-42bc-9b27-56c4f2a80fc9"
+    documentation="Local (morada) a visitar pelas equipas de recolha aquando da execução do circuito.  Está obrigatóriamente georeferenciado e está caraterizado com: morada, freguesia, tipo de ponto de recolha, … Agrega um conjunto moradas de contentor e respetivos contentores. Pode dizer respeito a um numero de polícia ou local isolado, ou pode ser relativo a um troço de rua (habitualmente quarteirão)."/>
