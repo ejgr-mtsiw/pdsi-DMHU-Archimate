@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Circuito"
+    name="Tarefas e circuitos"
     id="de361a82-ba71-4005-a9ad-68b4b8aadde1"
-    documentation="Conceito abstrato que serve para agregar trabalho a meios humanos e outros. Genericamente poderia ser entendido por Centro de Custos"/>
+    documentation="Conceito abstrato que serve para agregar trabalho a meios humanos e outros."/>
