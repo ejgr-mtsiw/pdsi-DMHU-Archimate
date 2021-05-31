@@ -2980,10 +2980,10 @@
           href="ServingRelationship_id-3d3091b624ce41c19b9945bb7178c6cd.xml#id-3d3091b624ce41c19b9945bb7178c6cd"/>
     </sourceConnections>
     <bounds
-        x="2448"
-        y="1284"
-        width="720"
-        height="552"/>
+        x="2472"
+        y="1320"
+        width="672"
+        height="480"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b23e20747b47442986d52c0aa13c3105"
@@ -3034,8 +3034,8 @@
             href="AggregationRelationship_id-5ffbd5e2ff4d40b5a85d4be31e4dce41.xml#id-5ffbd5e2ff4d40b5a85d4be31e4dce41"/>
       </sourceConnections>
       <bounds
-          x="492"
-          y="60"
+          x="468"
+          y="24"
           width="184"
           height="439"/>
       <children
@@ -3166,8 +3166,8 @@
         id="id-02f5ef072a6c4af89787d0f0c3e1e378"
         targetConnections="id-412264782ee14d64851664ce8c85048e id-aa5bce3d0759428fb7f1ca79682b0912">
       <bounds
-          x="48"
-          y="190"
+          x="24"
+          y="154"
           width="204"
           height="42"/>
       <archimateElement
@@ -3179,8 +3179,8 @@
         id="id-3313dcc4af66420583e4d5bd36e1ce06"
         targetConnections="id-9a11dd3a82df48afb4717d7a9a2cb77b id-c7cf9bfe17bc4466a785d405eb494af8">
       <bounds
-          x="48"
-          y="328"
+          x="24"
+          y="292"
           width="204"
           height="48"/>
       <archimateElement
@@ -3192,8 +3192,8 @@
         id="id-bed9202dcf9143ca9b39cc81eaac48f8"
         targetConnections="id-eaa7e2045f32458e88786df96ffd0152 id-5e5d79dfc3b84922ac0e04b9403d6f22">
       <bounds
-          x="48"
-          y="124"
+          x="24"
+          y="88"
           width="204"
           height="48"/>
       <archimateElement
@@ -3205,8 +3205,8 @@
         id="id-72f78dcd181149d18e4f36dfd5a1f4f0"
         targetConnections="id-09beac143f344af3b01ab3b50a4fd8da id-3dc38d7b251f4d05938f9fd9701a1fd3">
       <bounds
-          x="48"
-          y="448"
+          x="24"
+          y="412"
           width="204"
           height="40"/>
       <archimateElement
@@ -3218,8 +3218,8 @@
         id="id-6462b6d3a221476599bfc70dc624b26f"
         targetConnections="id-0937802b385b4bfa8d2eeaacba94be24 id-e7af4b060f3d457ba033a6b229ae3510">
       <bounds
-          x="48"
-          y="255"
+          x="24"
+          y="219"
           width="204"
           height="37"/>
       <archimateElement
@@ -3231,8 +3231,8 @@
         id="id-85e8d84cf4a249e9aa8dbff6d08c282b"
         targetConnections="id-f95cb2c1b69c4d9c82485a86069ddd71 id-d6ffdc7d8e7e4a77b678f722d288ee46">
       <bounds
-          x="48"
-          y="400"
+          x="24"
+          y="364"
           width="204"
           height="36"/>
       <archimateElement
