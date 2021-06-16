@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Na minha Rua - WS - Altera Estado"
+    id="id-394f64730a9548a9a1cd317a119de29e"
+    documentation="Serviço responsábel pela atualização no portal NaMinhaRuaLx  dos pedidos que estão a ser tratados pelo pelo LXSolicitações.&#xA;EndPoint: &quot;https://naminharualx.cm-lisboa.pt/gopiv2/publico/lxalerta/novoestado&quot;&#xA;">
+  <properties
+      key="id"
+      value="S_ACTUASYS_WS"/>
+</archimate:SystemSoftware>

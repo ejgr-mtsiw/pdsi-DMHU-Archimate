@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACTUASYS - Webservice Relógio Ponto"
+    id="id-c082639413c4456b85292a966696cd96"
+    documentation="Aplicação Relógio de Ponto - Webservice que avalia se determinado utilizador está ao  serviço. É Utuilixado&#xA;Endpoint: http://matti/PresentAbsentWebApi/API/PresenceAbsence"/>

@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PTAH"
+    id="id-53b14717f8f84fa3b4b2d88b21ee2af3"
+    documentation="Base de Dados GIF - SGBD Oracle 10G - (Cerca de 1700 GB)">
+  <properties
+      key="id"
+      value="S_BD_PTAH"/>
+</archimate:SystemSoftware>

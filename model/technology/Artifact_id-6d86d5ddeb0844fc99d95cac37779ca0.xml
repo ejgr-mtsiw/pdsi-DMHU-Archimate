@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Android"
+    id="id-6d86d5ddeb0844fc99d95cac37779ca0"
+    documentation="Sistema operativo das máquinas clientes Android > Ver 17">
+  <properties
+      key="id"
+      value="S_ANDROID"/>
+</archimate:Artifact>

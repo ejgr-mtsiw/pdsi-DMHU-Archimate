@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NAS"
+    id="id-02acbfb1dcc44fd98a30d2b203cb73a3"
+    documentation="Servidor que suporta a partilha de ficheiros (EMC VNX 5300) - 1,7 TB em utilização">
+  <properties
+      key="id"
+      value="S_SERVIDOR_FICHEIROS"/>
+</archimate:Device>

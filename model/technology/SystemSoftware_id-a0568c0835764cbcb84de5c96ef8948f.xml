@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema Operativo Linux"
+    id="id-a0568c0835764cbcb84de5c96ef8948f"
+    documentation="Servidor baseado em Linux que suporta a base de dados ORACLE.&#xA;É mantido centralmente pelo DSI.&#xA;RHEL AS 4 8CPU 36GB RAM"/>

@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MIcrosoft Hyper V"
+    id="id-bfe17229c0fb49a497fc8d003608295c"
+    documentation="Ambiente Hypervisor (Físico e Partilhado) que aloja o servidor MATTI (Relógio Ponto)&#xA;Infraestrutura| MIcrosoft Hyper V&#xA;Sistema Operativo | Windows Server 2012 R2 Datacenter&#xA;CPU's | 2 sockets (2x28 Cores)&#xA;RAM | 512 GB&#xA;Storage EMC VNX 540012TB">
+  <properties
+      key="id"
+      value="S_Hypervisor_MATTI"/>
+</archimate:Device>

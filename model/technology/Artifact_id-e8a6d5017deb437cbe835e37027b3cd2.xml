@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DHU-TOOLBAR.dll"
+    id="id-e8a6d5017deb437cbe835e37027b3cd2"
+    documentation="Plugin desenvolvido para ARCGIS originalmente pela ESRI, que permite gerir circuitos sob mapas no ArcGIS e interagir diretamente com a gestão de circuitos (LU). Foi migrada internamente de VBA para VB.NET para funcionar no ArcGIs 10.&#xA;"/>

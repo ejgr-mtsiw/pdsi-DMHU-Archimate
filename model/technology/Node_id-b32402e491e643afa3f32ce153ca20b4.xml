@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MATTI (Relógio Ponto)"
+    id="id-b32402e491e643afa3f32ce153ca20b4"
+    documentation="Sistema Operativo| Windows Server 2012 R2 Standard&#xA;vCPU's |4 (2,60Ghz)&#xA;RAM Dinâmica |6GB - 12GB&#xA;Disco |40GB&#xA;">
+  <properties
+      key="id"
+      value="S_MATTI"/>
+</archimate:Node>

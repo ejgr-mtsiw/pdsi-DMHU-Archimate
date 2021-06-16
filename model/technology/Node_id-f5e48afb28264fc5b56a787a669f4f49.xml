@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base Dados Relógio Ponto"
+    id="id-f5e48afb28264fc5b56a787a669f4f49"
+    documentation="Infraestrutura| SQL Server Always ON 2014&#xA;Sistema Operativo |Windows Server 2012 R2 Standard&#xA;CPU's | 2 sockets (2x28 Cores)&#xA;RAM | 256GB&#xA;Storage | EMC VNX 54001,5TB&#xA;Tamanho |  BD'sMILLENIUM: 3971 MB&#xA;   Millenium_Biostar: 224 MB&#xA;   Millenium_Biostar_TA: 78 MB&#xA;           Millenium_Biostart_VE: 78 MB&#xA;">
+  <properties
+      key="id"
+      value="S_BD_MATTI"/>
+</archimate:Node>

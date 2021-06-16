@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PCs"
+    id="id-dce4940d67d34b66a4c07a632ca691da"
+    documentation="Todos os Desktops e Laptos que acedem ao conjunto de aplicaçãoes da DMHU">
+  <properties
+      key="id"
+      value="S_DESKTOP_CLIENT"/>
+</archimate:Device>

@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="THORA"
+    id="id-c2f5ccbe1a2d45f18ccd10d269131264"
+    documentation="Servidor de Virtualização - VMWARE ESXI 5.1.0) - 16 CPUS x 2.8 GHZ - 114 GB RAM&#xA;">
+  <properties
+      key="id"
+      value="S_thora"/>
+</archimate:Device>
