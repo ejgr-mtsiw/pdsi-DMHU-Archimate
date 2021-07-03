@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gerir tipos de solicitação"
+    id="P_003_02_09_01"
+    documentation="Criar, editar ou eliminar tipologias de solicitação. Compreende ainda a sua parametrização, definição de workflow e mapeamento com as tipologias utilizadas em GOPI, de forma a automatizar o mais possivel a integração dos dados enviados por esta aplicação. "/>

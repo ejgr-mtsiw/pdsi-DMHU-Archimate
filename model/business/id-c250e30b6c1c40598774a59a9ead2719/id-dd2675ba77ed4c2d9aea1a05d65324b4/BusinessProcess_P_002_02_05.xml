@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planeamento da escala - Previsão - Cantoneiros"
+    id="P_002_02_05"
+    documentation="Planeamento diário (por antecipação) da afetação dos recursos humanos humanos aos circuitos a executar. O Intervalo de planeamento para esta escala pode dizer respeito a um dia específico, a um evento específico (i.e. feira do relógio) ou até mesmo a uma semana ou mês."/>

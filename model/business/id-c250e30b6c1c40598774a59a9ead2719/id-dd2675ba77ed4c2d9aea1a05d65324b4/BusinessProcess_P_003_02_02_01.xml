@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relacionar o pedido com a área operacional"
+    id="P_003_02_02_01"
+    documentation="Relacionar o pedido, com base na morada e tipologia de contentores, com os artefactos da área operacional, nomeadamente o local de contentores"/>

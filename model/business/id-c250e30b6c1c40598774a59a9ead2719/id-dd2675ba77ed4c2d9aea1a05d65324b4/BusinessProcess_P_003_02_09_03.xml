@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reactivação de solicitações"
+    id="P_003_02_09_03"
+    documentation="Reactivar pedidos já encerrados de modo a poderem ser novamente processados ou corrigidos."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parametrizar ficha de fardamento do colaborador"
+    id="p_001_04_02"
+    documentation="Defenição do fardamento a distribuir ao colaborador, com base na sua função ou caso particular"/>

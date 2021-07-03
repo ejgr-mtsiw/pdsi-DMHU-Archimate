@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Criação do ficheiro mensal das ocorrencias dos colaboradores"
+    id="p_001_02_03"
+    documentation="Após o fecho de todos os lançamentos de ausencias e presenças, criação de um ficheiro geral a enviar ao DGRH para processamento salarial.&#xA;Criação e envio da listagem mensal dos colaboradores sempre em período noturno, ou que saiem desse registo"/>

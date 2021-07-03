@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultar dados assiduidade anteriores a 2011"
+    id="p_001_02_05"
+    documentation="Aceder ao historico da assiduidade anterir a 2011, que foi registada noutro esquema de registo"/>

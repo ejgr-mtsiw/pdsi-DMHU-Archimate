@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parametrizar fichas de fardamento por função"
+    id="p_001_04_01"
+    documentation="Defenição das caracteristicas do fardamento a distribuir por função profissional (Cantoneiros de limpeza, Condutores, Auxiliares, etc)"/>

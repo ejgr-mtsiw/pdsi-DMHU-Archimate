@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correção de erros"
+    id="P_003_02_09_02"
+    documentation="Executar rotinas de deteção de erros comuns, nomeadamente registos com dados incompletos ou inconsistentes, e proceder à sua correção ou encaminhamento correto"/>

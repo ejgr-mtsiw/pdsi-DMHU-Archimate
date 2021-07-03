@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Impressão de Circuitos"
+    id="P_002_02_06"
+    documentation="O NOR tem um interface que permite determinar a necessidade de impressão de circuitos que sofreram alterações para informar o motorista. Não obstante, sempre que existe alguma alteração relevante, a informação chega ao NOR via LXSolicitações."/>

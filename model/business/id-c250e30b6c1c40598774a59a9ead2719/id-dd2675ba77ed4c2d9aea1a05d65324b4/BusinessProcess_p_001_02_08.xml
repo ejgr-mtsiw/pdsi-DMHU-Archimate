@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inserir presença e/ou tarefa"
+    id="p_001_02_08"
+    documentation="Registar presenças dos colaboradores com ous sem tarefa/circuito associados.&#xA;Esta tarefa também é processada automáticamente a partir de outras aplicações que registam trabalho efectuado, nomeadamente a LU e a Escala"/>

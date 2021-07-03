@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Criar ficha de trabalho"
+    id="P_003_02_02_03"
+    documentation="Imprimir uma ficha de trabalho operacional onde consta o pedido, o histórico de contentarização do local, a operação a efectuar (habitualmente entrega ou retirada de contentores) e áreas para recolha de informação adicional, nomeadamente eventuais contentores não cadastrados. "/>

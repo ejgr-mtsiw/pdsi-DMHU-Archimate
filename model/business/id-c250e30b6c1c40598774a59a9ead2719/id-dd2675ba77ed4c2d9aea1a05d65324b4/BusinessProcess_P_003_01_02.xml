@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Passagem GOPI --> LxSolicitações"
+    id="P_003_01_02"
+    documentation="Passar para o LxSolicitações eventuais registos em gopi que não foi possivel processar automáticamente e que se encontram numa fila de espera"/>

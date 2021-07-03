@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Editar campos locais do colaborador"
+    id="p_001_01_03"
+    documentation="Actualizar alguns campos da ficha de cadastro do colaborador, sem impacto noutros processos, cujo volume de alterações aconselha a descentralizar, nomeadamente nr telefone, datas de validade de cartões, etc"/>
