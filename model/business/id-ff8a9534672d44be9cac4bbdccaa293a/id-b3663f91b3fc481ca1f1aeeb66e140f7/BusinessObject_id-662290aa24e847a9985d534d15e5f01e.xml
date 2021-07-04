@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Local de Solicitação"
+    id="id-662290aa24e847a9985d534d15e5f01e">
+  <properties
+      key="id"
+      value="ru_local_solicitacao"/>
+</archimate:BusinessObject>
