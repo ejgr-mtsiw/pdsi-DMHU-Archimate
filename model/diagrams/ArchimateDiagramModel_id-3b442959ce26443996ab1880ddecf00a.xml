@@ -301,10 +301,10 @@
           href="AccessRelationship_id-65b8d5919b14486ab99a22f2c266dcde.xml#id-65b8d5919b14486ab99a22f2c266dcde"/>
     </sourceConnections>
     <bounds
-        x="850"
-        y="-120"
+        x="1036"
+        y="-180"
         width="193"
-        height="105"/>
+        height="217"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-53294f3b174b4a71a48b3751c28e0378.xml#id-53294f3b174b4a71a48b3751c28e0378"/>
@@ -362,8 +362,8 @@
           href="AccessRelationship_id-ca8d217b80ec4ea4b485f319dce91edd.xml#id-ca8d217b80ec4ea4b485f319dce91edd"/>
     </sourceConnections>
     <bounds
-        x="874"
-        y="71"
+        x="1073"
+        y="141"
         width="145"
         height="73"/>
     <archimateElement
@@ -436,8 +436,8 @@
           href="AccessRelationship_id-bb0688cd83a7410c9a5c122bd438c185.xml#id-bb0688cd83a7410c9a5c122bd438c185"/>
     </sourceConnections>
     <bounds
-        x="862"
-        y="255"
+        x="1048"
+        y="300"
         width="170"
         height="95"/>
     <archimateElement
@@ -501,8 +501,8 @@
           href="AccessRelationship_id-56e5808036f84e50a8e1bfd440b5ecb0.xml#id-56e5808036f84e50a8e1bfd440b5ecb0"/>
     </sourceConnections>
     <bounds
-        x="874"
-        y="503"
+        x="1051"
+        y="490"
         width="163"
         height="81"/>
     <archimateElement
@@ -720,8 +720,8 @@
           href="AccessRelationship_id-0ccc940dc45d4383b451d8caa3e9896b.xml#id-0ccc940dc45d4383b451d8caa3e9896b"/>
     </sourceConnections>
     <bounds
-        x="903"
-        y="850"
+        x="972"
+        y="845"
         width="134"
         height="69"/>
     <archimateElement
