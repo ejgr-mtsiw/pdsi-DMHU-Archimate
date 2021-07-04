@@ -198,7 +198,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ca45df8bd878489f83917b277743fb2b"
-          targetConnections="id-e0c1ed888a11473daaf128fdc3b1642e id-c7fb8d1ec8954009919bf2e8c9c2db02 id-fd58ead0d3d3454cb33039d01e20eddc id-3cb16d33e8df4e79be8436a87610e182">
+          targetConnections="id-e0c1ed888a11473daaf128fdc3b1642e id-c7fb8d1ec8954009919bf2e8c9c2db02 id-3cb16d33e8df4e79be8436a87610e182 id-fd58ead0d3d3454cb33039d01e20eddc">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-cd96499df7714cbeb14283ae434feed0"
@@ -4004,15 +4004,6 @@
       targetConnections="id-29c18f7795684ed1b0a0a7e0e87298dc">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-fd58ead0d3d3454cb33039d01e20eddc"
-        source="id-efa2b3a985c84785b4e52253f9bfcb68"
-        target="id-ca45df8bd878489f83917b277743fb2b">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-e254d8db88a34b2d9d75454b0c296cf6.xml#id-e254d8db88a34b2d9d75454b0c296cf6"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8ffedf90681d4d75b5589b52a20117b9"
         source="id-efa2b3a985c84785b4e52253f9bfcb68"
         target="id-b8a3480bba0c468587b03e30ed40ba8a">
@@ -4073,6 +4064,15 @@
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-5a9a011160804162bd9cc33b0778e4e7.xml#id-5a9a011160804162bd9cc33b0778e4e7"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-fd58ead0d3d3454cb33039d01e20eddc"
+        source="id-efa2b3a985c84785b4e52253f9bfcb68"
+        target="id-ca45df8bd878489f83917b277743fb2b">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-e254d8db88a34b2d9d75454b0c296cf6.xml#id-e254d8db88a34b2d9d75454b0c296cf6"/>
     </sourceConnections>
     <bounds
         x="1608"
