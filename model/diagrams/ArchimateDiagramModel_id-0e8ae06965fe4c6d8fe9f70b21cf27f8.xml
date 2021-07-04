@@ -10,7 +10,7 @@
     <bounds
         x="267"
         y="118"
-        width="120"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -22,7 +22,7 @@
     <bounds
         x="267"
         y="216"
-        width="120"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -34,7 +34,7 @@
     <bounds
         x="267"
         y="324"
-        width="120"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -46,7 +46,7 @@
     <bounds
         x="267"
         y="432"
-        width="166"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -56,9 +56,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-720366bd3f7742e285816644ccf1a82b">
     <bounds
-        x="492"
-        y="118"
-        width="120"
+        x="267"
+        y="540"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -68,9 +68,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3ff334f950574fa4a708fb97a11d9566">
     <bounds
-        x="504"
-        y="216"
-        width="120"
+        x="267"
+        y="648"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -80,9 +80,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-71e956be867d4f2ca62dc63730b7991d">
     <bounds
-        x="503"
-        y="324"
-        width="170"
+        x="267"
+        y="720"
+        width="202"
         height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -92,9 +92,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e48912e0577f4b818f174731171c87bc">
     <bounds
-        x="504"
-        y="432"
-        width="120"
+        x="267"
+        y="828"
+        width="202"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -104,8 +104,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e9736340332847a88c16bfba5004da4d">
     <bounds
-        x="720"
-        y="118"
+        x="290"
+        y="996"
         width="120"
         height="55"/>
     <archimateElement
@@ -116,8 +116,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-64c6909e7dcf478fbcaad504bdea18d1">
     <bounds
-        x="720"
-        y="216"
+        x="290"
+        y="1094"
         width="120"
         height="55"/>
     <archimateElement
