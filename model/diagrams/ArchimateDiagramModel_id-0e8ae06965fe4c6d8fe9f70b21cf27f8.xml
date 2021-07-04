@@ -116,9 +116,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-64c6909e7dcf478fbcaad504bdea18d1">
     <bounds
-        x="264"
+        x="192"
         y="36"
-        width="168"
+        width="240"
         height="192"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
