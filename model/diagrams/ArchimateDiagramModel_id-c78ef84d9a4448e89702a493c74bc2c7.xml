@@ -1,12 +1,16 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06_02 - Internal operational specification of the business processes (white-box) (copy)"
+    name="06_02 - Internal operational specification of the business processes (white-box) (Gestão de equipamentos de deposição e locais de contentor)"
     id="id-c78ef84d9a4448e89702a493c74bc2c7"
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fe3d05745e444c0181dd02eeff1a4fc5">
+      id="id-fe3d05745e444c0181dd02eeff1a4fc5"
+      alpha="50">
+    <features
+        name="lineAlpha"
+        value="50"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-08bfc079a7e44d18a837be8d3c8f0d56"
@@ -240,9 +244,9 @@
               endX="64"
               endY="-41"/>
           <bendpoints
-              startX="-97"
+              startX="-73"
               startY="104"
-              endX="4"
+              endX="28"
               endY="-41"/>
           <archimateRelationship
               xsi:type="archimate:AccessRelationship"
