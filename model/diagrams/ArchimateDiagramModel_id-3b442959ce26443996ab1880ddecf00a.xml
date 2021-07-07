@@ -1797,9 +1797,10 @@
           endX="184"
           endY="348"/>
       <bendpoints
-          startX="-164"
-          startY="-352"
-          endX="184"/>
+          startX="-165"
+          startY="-346"
+          endX="183"
+          endY="7"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-229d5271fc1b47d38f1576e757a9c308.xml#id-229d5271fc1b47d38f1576e757a9c308"/>
@@ -1836,10 +1837,10 @@
           endX="196"
           endY="144"/>
       <bendpoints
-          startX="-152"
-          startY="-160"
-          endX="196"
-          endY="-12"/>
+          startX="-153"
+          startY="-153"
+          endX="195"
+          endY="-5"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-a6ebac9c2f1345798b20cb1c9cd405f9.xml#id-a6ebac9c2f1345798b20cb1c9cd405f9"/>
@@ -1871,15 +1872,15 @@
         source="id-5107318d85814eaba12f1bb7f3f6f428"
         target="id-b3be755a70524bd3a44fb667c6288371">
       <bendpoints
-          startX="-152"
-          startY="4"
-          endX="196"
-          endY="-60"/>
+          startX="-153"
+          startY="-1"
+          endX="195"
+          endY="-65"/>
       <bendpoints
-          startX="-152"
-          startY="40"
-          endX="196"
-          endY="-24"/>
+          startX="-153"
+          startY="47"
+          endX="195"
+          endY="-17"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-09b99f928a844b118e4a96f3d6280301.xml#id-09b99f928a844b118e4a96f3d6280301"/>
@@ -1951,10 +1952,10 @@
           endX="171"
           endY="1523"/>
       <bendpoints
-          startX="-176"
-          startY="-1390"
-          endX="172"
-          endY="12"/>
+          startX="-177"
+          startY="-1516"
+          endX="171"
+          endY="19"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-ebebee08c14f41708e9502c3e71c1cf7.xml#id-ebebee08c14f41708e9502c3e71c1cf7"/>
