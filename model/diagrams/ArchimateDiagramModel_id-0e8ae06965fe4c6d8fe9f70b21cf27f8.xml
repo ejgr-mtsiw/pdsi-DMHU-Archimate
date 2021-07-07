@@ -74,7 +74,7 @@
         x="48"
         y="1254"
         width="202"
-        height="55"/>
+        height="127"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-53294f3b174b4a71a48b3751c28e0378.xml#id-53294f3b174b4a71a48b3751c28e0378"/>
@@ -1503,10 +1503,10 @@
           href="ServingRelationship_id-6a5689275f524eaba1f74306bad358da.xml#id-6a5689275f524eaba1f74306bad358da"/>
     </sourceConnections>
     <bounds
-        x="359"
-        y="2625"
-        width="156"
-        height="55"/>
+        x="356"
+        y="2609"
+        width="160"
+        height="69"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-baaa9405051c4f81b5a84027cc5e2fcf.xml#id-baaa9405051c4f81b5a84027cc5e2fcf"/>
