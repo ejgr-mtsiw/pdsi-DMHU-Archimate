@@ -220,10 +220,10 @@
           href="AggregationRelationship_id-5d774975734748a0a2d3bf5fe2df48e4.xml#id-5d774975734748a0a2d3bf5fe2df48e4"/>
     </sourceConnections>
     <bounds
-        x="480"
-        y="111"
-        width="37"
-        height="25"/>
+        x="468"
+        y="87"
+        width="133"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
         href="BusinessCollaboration_id-fcd29050b1074d3384f50e49c6f877c5.xml#id-fcd29050b1074d3384f50e49c6f877c5"/>
@@ -233,10 +233,10 @@
       id="id-e4ec8e90f5834bc997a008dc6cc8270b"
       targetConnections="id-ec1d8be8efcc488995a6d42ead3f8d3f">
     <bounds
-        x="60"
-        y="96"
+        x="-60"
+        y="93"
         width="120"
-        height="55"/>
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-4bce4cccfc294b718c2c5b638f78b17d.xml#id-4bce4cccfc294b718c2c5b638f78b17d"/>
@@ -263,10 +263,10 @@
           href="AggregationRelationship_id-423c882b56eb4f0c945784ce40720fee.xml#id-423c882b56eb4f0c945784ce40720fee"/>
     </sourceConnections>
     <bounds
-        x="228"
-        y="96"
-        width="37"
-        height="25"/>
+        x="120"
+        y="86"
+        width="145"
+        height="76"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
         href="BusinessCollaboration_id-9f7978f360ce4377a14b3561cb9849b0.xml#id-9f7978f360ce4377a14b3561cb9849b0"/>
