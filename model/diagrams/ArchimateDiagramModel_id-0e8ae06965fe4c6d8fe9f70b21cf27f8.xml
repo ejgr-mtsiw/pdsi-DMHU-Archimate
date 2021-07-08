@@ -1538,8 +1538,8 @@
       id="id-57a02d39053b45ec835836c5a3596e69"
       targetConnections="id-e3c92e60c684479b8ef2caf46cab5468">
     <bounds
-        x="1268"
-        y="2616"
+        x="1476"
+        y="2599"
         width="216"
         height="55"/>
     <archimateElement
@@ -1564,8 +1564,8 @@
       id="id-3170e51c79154b84a4cd9fa9ad75e3c8"
       targetConnections="id-c2bc96f95d2d428e9d28970df85df433">
     <bounds
-        x="1268"
-        y="2694"
+        x="1476"
+        y="2677"
         width="216"
         height="55"/>
     <archimateElement
@@ -1577,8 +1577,8 @@
       id="id-e97fa9da3e5c4f3aa74b85d50b3826c5"
       targetConnections="id-a2c6db9fb8734e97a3fc3128b6da91c7">
     <bounds
-        x="1268"
-        y="2760"
+        x="1476"
+        y="2743"
         width="216"
         height="55"/>
     <archimateElement
@@ -1590,8 +1590,8 @@
       id="id-f3949534636f40279dfe19fec2f4ae2f"
       targetConnections="id-35a98e48aa2049e59495baa582d5fa65">
     <bounds
-        x="1268"
-        y="2832"
+        x="1476"
+        y="2815"
         width="216"
         height="55"/>
     <archimateElement
@@ -1603,8 +1603,8 @@
       id="id-9fdd09f45b3e47489407afc8d036515b"
       targetConnections="id-ed8b6128169f4c199b64290d00d7f311">
     <bounds
-        x="1268"
-        y="2892"
+        x="1476"
+        y="2875"
         width="216"
         height="55"/>
     <archimateElement
@@ -1616,8 +1616,8 @@
       id="id-d786e4350720450f892520a3a767179f"
       targetConnections="id-f37fafa2d4c54c169fdde5367e8d4418">
     <bounds
-        x="1268"
-        y="2952"
+        x="1476"
+        y="2935"
         width="216"
         height="55"/>
     <archimateElement
@@ -1629,8 +1629,8 @@
       id="id-b00a3c1422374f33b2506cab4eff90e4"
       targetConnections="id-9f2a28ff45774feb958667e9c4c00c5e">
     <bounds
-        x="1268"
-        y="3012"
+        x="1476"
+        y="2995"
         width="216"
         height="55"/>
     <archimateElement
@@ -1642,8 +1642,8 @@
       id="id-29646d68828645cc9d0b41859c8aa12e"
       targetConnections="id-65006201520245e0ad6771b03fe712f6">
     <bounds
-        x="1268"
-        y="3072"
+        x="1476"
+        y="3055"
         width="216"
         height="55"/>
     <archimateElement
