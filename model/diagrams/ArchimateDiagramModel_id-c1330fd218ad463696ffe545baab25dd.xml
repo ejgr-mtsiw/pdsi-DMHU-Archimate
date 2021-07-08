@@ -294,9 +294,9 @@
         id="id-d8259ad6a3c64bdfa4a6e7881841a776"
         targetConnections="id-d6fd5f79163947829632c13c1bcfa2f6">
       <bounds
-          x="60"
-          y="60"
-          width="216"
+          x="96"
+          y="84"
+          width="192"
           height="103"/>
       <archimateElement
           xsi:type="archimate:Device"
