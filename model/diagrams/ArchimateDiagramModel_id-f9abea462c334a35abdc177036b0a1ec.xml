@@ -46,7 +46,7 @@
     <bounds
         y="12"
         width="1165"
-        height="1105"/>
+        height="1021"/>
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-3fdf2be894c440e0a2148d57c5384d30"
@@ -787,8 +787,8 @@
       <bounds
           x="10"
           y="792"
-          width="456"
-          height="300"/>
+          width="255"
+          height="217"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d2362ffe8ca44f4d9ee7438deb26bee4"
@@ -803,8 +803,8 @@
               href="AssignmentRelationship_id-0b8f1efae5c04b539acee74a3b20ed58.xml#id-0b8f1efae5c04b539acee74a3b20ed58"/>
         </sourceConnections>
         <bounds
-            x="72"
-            y="72"
+            x="12"
+            y="24"
             width="228"
             height="181"/>
         <children
@@ -887,7 +887,7 @@
       </sourceConnections>
       <bounds
           x="531"
-          y="900"
+          y="873"
           width="120"
           height="55"/>
       <archimateElement
@@ -918,7 +918,7 @@
       </sourceConnections>
       <bounds
           x="531"
-          y="1037"
+          y="954"
           width="120"
           height="55"/>
       <archimateElement
@@ -944,7 +944,7 @@
     </sourceConnections>
     <bounds
         x="528"
-        y="1140"
+        y="1044"
         width="120"
         height="55"/>
     <archimateElement
@@ -975,7 +975,7 @@
     </sourceConnections>
     <bounds
         x="425"
-        y="1224"
+        y="1128"
         width="325"
         height="97"/>
     <children
