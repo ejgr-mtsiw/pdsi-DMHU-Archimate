@@ -13,6 +13,11 @@
         id="id-1da21ffc41be46acacc30c2c83a43a54"
         source="id-8c3abc9e7be9402ea9b8a8d2e8e748ae"
         target="id-9f69edce607f437ba05374e4c828be3f">
+      <bendpoints
+          startX="24"
+          startY="118"
+          endX="-126"
+          endY="-2"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-9c865f9a4784440a9a076466501c98a2.xml#id-9c865f9a4784440a9a076466501c98a2"/>
@@ -22,6 +27,16 @@
         id="id-89e650e2e42b4ae9a6012cfadfa9c33e"
         source="id-8c3abc9e7be9402ea9b8a8d2e8e748ae"
         target="id-8ac5dc7c4be4474ba073a4cd7d9a37c1">
+      <bendpoints
+          startX="12"
+          startY="154"
+          endX="-138"
+          endY="-6"/>
+      <bendpoints
+          startX="72"
+          startY="154"
+          endX="-78"
+          endY="-6"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-29a302725e1f43b79499390152ffd0aa.xml#id-29a302725e1f43b79499390152ffd0aa"/>
@@ -31,6 +46,10 @@
         id="id-73afb0f1e1674ff9a00797ecdd87a81c"
         source="id-8c3abc9e7be9402ea9b8a8d2e8e748ae"
         target="id-ef9d42951b3449c790cea1f21254dc52">
+      <bendpoints
+          startY="202"
+          endX="-150"
+          endY="-6"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-611d652f2a4d4038bafaa2d20921d6f5.xml#id-611d652f2a4d4038bafaa2d20921d6f5"/>
@@ -40,6 +59,11 @@
         id="id-2e433012a0584e38813923e68e0e9695"
         source="id-8c3abc9e7be9402ea9b8a8d2e8e748ae"
         target="id-1c7fe31f3b24420ab0b4eade23274c9e">
+      <bendpoints
+          startX="-12"
+          startY="262"
+          endX="-162"
+          endY="-6"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-8edea4dbd7f74a4f9bac146565cf0406.xml#id-8edea4dbd7f74a4f9bac146565cf0406"/>
